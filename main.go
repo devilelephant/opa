@@ -8,6 +8,8 @@ import (
 	"fmt"
 	"os"
 
+	_ "github.com/godaddy/opa-lambda-extension-plugin/plugins/lambda"
+
 	"github.com/open-policy-agent/opa/cmd"
 )
 

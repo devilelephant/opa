@@ -7,7 +7,6 @@ require (
 	github.com/bytecodealliance/wasmtime-go v0.36.0
 	github.com/containerd/containerd v1.6.6
 	github.com/dgraph-io/badger/v3 v3.2103.2
-	github.com/dgryski/go-farm v0.0.0-20200201041132-a6ae2369ad13 // indirect
 	github.com/fortytw2/leaktest v1.3.0
 	github.com/foxcpp/go-mockdns v0.0.0-20210729171921-fb145fc6f897
 	github.com/fsnotify/fsnotify v1.5.4
@@ -15,8 +14,8 @@ require (
 	github.com/go-ini/ini v1.66.6
 	github.com/go-logr/logr v1.2.3
 	github.com/gobwas/glob v0.2.3
+	github.com/godaddy/opa-lambda-extension-plugin v0.1.0
 	github.com/golang/protobuf v1.5.2
-	github.com/golang/snappy v0.0.4 // indirect
 	github.com/gorilla/mux v1.8.0
 	github.com/miekg/dns v1.1.43 // indirect
 	github.com/olekukonko/tablewriter v0.0.5
@@ -31,7 +30,6 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.7.2
 	github.com/vektah/gqlparser/v2 v2.4.5
-	github.com/xeipuuv/gojsonpointer v0.0.0-20190905194746-02993c407bfb // indirect
 	github.com/xeipuuv/gojsonreference v0.0.0-20180127040603-bd5ef7bd5415
 	github.com/yashtewari/glob-intersection v0.1.0
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.32.0
